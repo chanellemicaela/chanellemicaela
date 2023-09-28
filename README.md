@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chanellemicaela
-- 👀 I’m interested in physics, philosophy, programming & technology, cognitive science, linguistics, and history.
+- 👀 I’m interested in physics, philosophy, programming & technology, cognitive science, language learning, and history.
 - 🌱 I’m currently learning almost all of the above.
 - 💞️ I’m looking to collaborate on programming projects for fun. 
 
