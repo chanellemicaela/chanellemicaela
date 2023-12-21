@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chanellemicaela
-- 👀 My main intellectual pursuits are physics, philosophy, maths, and CS & programming but other minor intellectual pursuits include cognitive science and language learning.
+- 👀 My main pursuits are physics, philosophy, math, and programming but other minor intellectual pursuits include cognitive science and language learning.
 - 💞️ I’m aiming for obtaining a certain degree of proficiency in at least two programming languages, ideally C and Python. 
 
 <!---
